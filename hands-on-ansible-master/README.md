@@ -1,4 +1,8 @@
-# The tutorialinux Ansible Course
+# Practice Lab
 
-At some point in the future, there will be a readme here. It'll be spectacular; trust me.
+Steps outlined:
+
+1. Go to 01 steps and read Bash problems on what to do for the LXC machines
+2. You will run Install-nginx script to complete that setup
+
 
